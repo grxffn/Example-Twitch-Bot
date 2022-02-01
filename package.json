@@ -1,0 +1,40 @@
+{
+  "name": "example-twitch-bot",
+  "version": "1.0.0",
+  "description": "An example Twitch bot which uses tmi.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/griffin2k/Example-Twitch-Bot.git"
+  },
+  "keywords": [
+    "tmi.js",
+    "tmi",
+    "twitch",
+    "bot",
+    "twitch",
+    "chat",
+    "bot",
+    "twitch-js",
+    "bot",
+    "twitchjs"
+  ],
+  "author": "griffin2k_",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/griffin2k/Example-Twitch-Bot/issues"
+  },
+  "homepage": "https://github.com/griffin2k/Example-Twitch-Bot#readme",
+  "dependencies": {
+    "@discordjs/collection": "^0.5.0",
+    "eslint": "^8.8.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "node": "^17.4.0",
+    "tmi.js": "^1.8.5"
+  }
+}
