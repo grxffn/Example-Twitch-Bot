@@ -26,8 +26,8 @@ Example offers:
 
 I do not provide coding assistance. If you don't know Javascript, see below:
 
-Learn [Javascript](https://www.codecademy.com/learn/introduction-to-javascript) with Codecademy.
-Get familiar with [tmi.js](https://tmijs.com/)
+* Learn [Javascript](https://www.codecademy.com/learn/introduction-to-javascript) with Codecademy.
+* Get familiar with [tmi.js](https://tmijs.com/)
 
 ## License
 
