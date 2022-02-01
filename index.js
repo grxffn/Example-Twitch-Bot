@@ -10,7 +10,7 @@ const ExampleBot = require('./base/examplebot'),
 			username: config.BOT_USERNAME,
 			password: `oauth:${config.ACCESS_TOKEN}`,
 		},
-		channels: [ 'griffin2k_' ],
+		channels: [ '<yourchannelname>' ],
 	});
 
 const init = async () => {
