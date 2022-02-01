@@ -8,9 +8,9 @@ $ npm install
 ```
 
 Before running this example, you will need to set configuration fields by creating `config.js`.
-	1. CLIENT_ID - The Client ID of your registered application or account.
-	2. ACCESS_TOKEN - The access token with the proper scopes.
-    3. and don't forget to set <yourchannelname> to your twitch channel name in index.js
+1. CLIENT_ID - The Client ID of your registered application or account.
+2. ACCESS_TOKEN - The access token with the proper scopes.
+3. and don't forget to set `<yourchannelname>` to your twitch channel name in index.js
 
 ```sh
 $ node index.js OR npm start
