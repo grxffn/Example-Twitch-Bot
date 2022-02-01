@@ -7,10 +7,11 @@ Once you clone this repository, use [npm](https://www.npmjs.com/) to install dep
 $ npm install
 ```
 
-Before running this example, you will need to set configuration fields by creating `config.js` or renaming `sample-config.js`.
+Before running this example, you will need to set config fields by creating `config.js` or renaming `sample-config.js`.
 1. CLIENT_ID - The Client ID of your registered application or account.
 2. ACCESS_TOKEN - The access token with the proper scopes.
-3. and don't forget to set `<yourchannelname>` to your twitch channel name in index.js
+3. BOT_OWNER - Your username for the Permission Level System
+4. and don't forget to set `<yourchannelname>` to your twitch channel name in index.js
 
 ```sh
 $ node index.js OR npm start
